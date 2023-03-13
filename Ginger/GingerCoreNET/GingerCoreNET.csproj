@@ -245,7 +245,7 @@
     <PackageReference Include="InputSimulatorStandard" Version="1.0.0" />
   
     <PackageReference Include="LibGit2Sharp.NativeBinaries" Version="2.0.278" />
-	<PackageReference Include="LiteDB" Version="4.1.4" />
+	<PackageReference Include="LiteDB" Version="5.0.13" />
   
     <PackageReference Include="DocumentFormat.OpenXml" Version="2.9.1" />
   
@@ -270,11 +270,11 @@
     <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
     <PackageReference Include="Microsoft.Graph" Version="4.51.0" />
     <PackageReference Include="Microsoft.Win32.Registry" Version="5.0.0" />
-    <PackageReference Include="MongoDB.Driver" Version="2.8.1" />
-    <PackageReference Include="MySql.Data" Version="8.0.16" />
+    <PackageReference Include="MongoDB.Driver" Version="2.19.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.28" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Npgsql" Version="4.0.7" />
-    <PackageReference Include="NPOI" Version="2.5.3" />
+    <PackageReference Include="NPOI" Version="2.6.0" />
     <PackageReference Include="NUglify" Version="1.9.7" />
     <PackageReference Include="Protractor" Version="1.0.0" />
     <PackageReference Include="RestSharp" Version="108.0.1" />
@@ -282,7 +282,7 @@
     <PackageReference Include="Selenium.WebDriver" Version="4.8.1" />
     <PackageReference Include="Selenium.WebDriver.Extensions" Version="3.3.0" />
     <PackageReference Include="SharpAdbClient" Version="2.3.23" />
-    <PackageReference Include="SSH.NET" Version="2020.0.1" />
+    <PackageReference Include="SSH.NET" Version="2020.0.2" />
     <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
     <PackageReference Include="System.Data.OleDb" Version="6.0.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
